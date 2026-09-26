@@ -1,0 +1,7 @@
+
+# Amazon ML Challenge data
+student_resource/
+*.zip
+*.tsv
+*.csv
+*.parquet

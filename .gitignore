@@ -1,0 +1,26 @@
+# Datasets and generated outputs
+dataset/
+output/
+tmp/
+*.sqlite
+*.sqlite3
+*.tsv
+*.csv
+*.parquet
+*.zip
+*.tar.gz
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

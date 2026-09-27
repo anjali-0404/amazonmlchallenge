@@ -1,14 +1,17 @@
-# Datasets and generated outputs
+# Amazon ML Challenge data
+student_resource/
 dataset/
 output/
 tmp/
-*.sqlite
-*.sqlite3
+
+# Generated / data files
 *.tsv
 *.csv
 *.parquet
 *.zip
 *.tar.gz
+*.sqlite
+*.sqlite3
 
 # Python cache and environment
 __pycache__/
